@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@types/styled-components": "^5.1.20",
-    "ingred-ui": "^9.3.2",
+    "ingred-ui": "^9.4.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "styled-components": "^5.3.3"
